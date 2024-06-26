@@ -1,0 +1,23 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: Workshop 1
+  chapters:
+  - file: chapters1/inleiding
+  - file: chapters1/memory_map
+  - file: chapters1/hardware_aansturen
+  - file: chapters1/assembly
+  - file: chapters1/testrom_maken
+  - file: chapters1/find_credits
+  - file: chapters1/tot_slot1
+- caption: Workshop 2
+  chapters:
+  - file: chapters2/inleiding
+  - file: chapters2/build_ghidra
+  - file: chapters2/project_aanmaken
+  - file: chapters2/memory_map
+  - file: chapters2/credits
+  - file: chapters2/tot_slot
